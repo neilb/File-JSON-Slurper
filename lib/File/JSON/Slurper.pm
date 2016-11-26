@@ -77,7 +77,7 @@ which defaults to UTF-8.
 
 =head1 SEE ALSO
 
-L<JSON::Parse> provides a function C<parse_json>
+L<JSON::Parse> provides a function L<JSON::Parse/json_file_to_perl>
 which is like the C<read_json> function provided by this module.
 But you can't specify an encoding,
 and it doesn't provide a function for writing to a file as JSON.
