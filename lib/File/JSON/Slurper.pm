@@ -91,7 +91,7 @@ available on CPAN.
 
 =head1 REPOSITORY
 
-L<https://github.com/neilbowers/File-JSON-Slurper>
+L<https://github.com/neilb/File-JSON-Slurper>
 
 
 =head1 AUTHOR
